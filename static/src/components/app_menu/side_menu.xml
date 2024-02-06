@@ -67,7 +67,7 @@
                t-att-data-menu-id="result.id"
                t-att-data-action-id="result.actionID"
                t-raw="result.name"
-               style="color:white; background-repeat: no-repeat; background-size: cover;"
+               style="color:white;"
                onclick="$('.o_menu_sections').css('display','flex');$('.search-results').addClass('o_hidden');$('.o_menu_brand').css('display','flex');$('.app_components').css('display','none'); $('.app-menu').removeClass('o_hidden'); $('.search-input input').val('');$('.o_action_manager').attr('style','display: block !important');$('.sidebar_panel').attr('style','display: block !important');"/>
         </t>
     </t>
