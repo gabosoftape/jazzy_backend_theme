@@ -92,6 +92,8 @@ o_setting_search {
     z-index: 99;
     top: 40px;
     display:none;
+    background-repeat: no-repeat!important;
+    background-size: cover!important;
     background: url("../../src/img/home-menu-bg-overlay.svg"), linear-gradient(to bottom, #71639e, #b0adba);
 }
 .app-menu a{
